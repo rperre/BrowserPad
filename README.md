@@ -4,7 +4,8 @@ BrowserPad
 Notepad for browsers using HTML+CSS+JS. Fully client side (offline mode).
 
 The concept was inspired by [this Lifehacker post][lifehacker],
-and originally conceived by @jjperezaguinaga on his post "[One line browser notepad][original]".
+and originally conceived by [@jjperezaguinaga](https://github.com/jjperezaguinaga)
+on his post "[One line browser notepad][original]".
 
 To use it, just drag the following link:
 [txt](data:text/html, <html contenteditable>)
