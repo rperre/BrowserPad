@@ -8,7 +8,7 @@ and originally conceived by [@jjperezaguinaga](https://github.com/jjperezaguinag
 on his post "[One line browser notepad][original]".
 
 To use it, just drag the following link:
-[txt](data:text/html, <html contenteditable>)
+**[BrowserPad](data:text/html, <html contenteditable>)**
 to your browser's bookmark bar.
 
 If you're on Firefox, you can check the "Load this bookmark in the sidebar" checkbox
